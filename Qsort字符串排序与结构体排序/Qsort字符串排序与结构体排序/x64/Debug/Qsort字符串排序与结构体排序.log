@@ -1,0 +1,4 @@
+﻿  strcmp.c
+D:\vs2017Data\26.字符串高级编程\Qsort字符串排序与结构体排序\Qsort字符串排序与结构体排序\strcmp.c(10,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\vs2017Data\26.字符串高级编程\Qsort字符串排序与结构体排序\Qsort字符串排序与结构体排序\strcmp.c(11,1): warning C4090: “初始化”: 不同的“const”限定符
+  Qsort字符串排序与结构体排序.vcxproj -> D:\vs2017Data\26.字符串高级编程\Qsort字符串排序与结构体排序\x64\Debug\Qsort字符串排序与结构体排序.exe
